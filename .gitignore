@@ -1,0 +1,14 @@
+# Build directories
+**/target/
+**/build/
+**/dist/
+**/node_modules/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# Environment files
+*.env
+*.log

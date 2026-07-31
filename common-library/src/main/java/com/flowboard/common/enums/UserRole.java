@@ -1,4 +1,4 @@
-package com.flowboard.common.enums.common.enums.common.enums.common.enums;
+package com.flowboard.common.enums;
 
 public enum UserRole {
     MEMBER,
